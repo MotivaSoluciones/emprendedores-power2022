@@ -14378,3 +14378,12 @@ p.result {
 .bord-50{
 	border-radius: 50px;
 }
+.btn-grey1{
+	border-radius: 6px;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin: 0px 10px;
+}
+.btn-grey1 a{
+	color: #000;
+}
