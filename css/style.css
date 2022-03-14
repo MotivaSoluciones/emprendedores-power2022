@@ -1,5 +1,5 @@
 body {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	color: #000
 }
 
@@ -142,7 +142,7 @@ button:focus {
 
 textarea,
 select {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 300;
 	-webkit-appearance: none;
 	border-radius: 4px;
@@ -167,7 +167,7 @@ ul {
 }
 
 body {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 1;
@@ -436,7 +436,7 @@ body {
 
 .button {
 	border-radius: 4px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 11px;
 	font-style: normal !important;
 	letter-spacing: 1px;
@@ -502,7 +502,12 @@ body {
     font-size: 18px;
 	text-transform: capitalize;
 }
-
+.button.style-19 {
+	border: 2px solid #00A0CE;
+	background: #00A0CE;
+	color: #fff;
+	border-radius: 10px;
+}
 .button.style-10 {
 	border: 2px solid #E0592A;
 	background: #E0592A;
@@ -1041,7 +1046,7 @@ nav > ul > li > a {
 	/* line-height: 90px; */
 	text-transform: uppercase;
 	display: inline-block;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	padding: 10px 14px;
 	margin: 30px 2px 0px;
 }
@@ -1796,7 +1801,7 @@ body:not(.mobile) .socials-box a:hover .fa {
 	font-size: 18px;
 	color: #3f454b;
 	font-weight: 700;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 a.open-cart-popup {
@@ -1810,7 +1815,7 @@ a.open-cart-popup .count {
 	color: #fff;
 	display: inline-block;
 	height: 18px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 10px;
 	font-weight: bold;
 	line-height: 18px;
@@ -2902,7 +2907,7 @@ footer#footer li a {
 	color: #4e5057;
 	font-size: 11px;
 	line-height: 12px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	white-space: nowrap;
 	border-right: 1px solid #4e5057;
 	padding-right: 10px;
@@ -2934,7 +2939,7 @@ footer#footer li {
 footer h3,
 footer b {
 	margin-bottom: 10px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	color: #757878;
 	font-size: 14px;
 	font-weight: bold;
@@ -4568,7 +4573,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 }
 
 .navigation-banner-content .subtitle {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 40px;
 	line-height: 30px;
 	color: #d349bd;
@@ -4587,7 +4592,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 .light-text .navigation-banner-content .title {}
 
 .navigation-banner-content .title {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 400;
 	font-size: 70px;
 	line-height: 50px;
@@ -4610,7 +4615,7 @@ body:not(.mobile) #content-block .sidebar-navigation .entry:hover .fa {
 	font-size: 15px;
 	line-height: 24px;
 	color: #aaa;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 300;
 	margin-bottom: 15px;
 	padding-right: 50px;
@@ -5112,7 +5117,7 @@ body:not(.mobile) .hover-class-1:hover .hover-label {
 	font-size: 60px;
 	line-height: 55px;
 	color: #779307;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 10px;
@@ -5238,19 +5243,19 @@ body.style-2 .navigation-banner-content .subtitle {
 	font-size: 30px;
 	color: #0f51a3;
 	font-weight: 300;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	letter-spacing: -1px;
 }
 
 body.style-2 .navigation-banner-content .title {
 	font-weight: 700;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 60px;
 	line-height: 60px;
 }
 
 body.style-2 .navigation-banner-content .description {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-style: normal;
 }
 
@@ -5748,14 +5753,14 @@ body.style-4 .navigation-banner-content .subtitle {
 	font-size: 20px;
 	line-height: 24px;
 	color: #a58d2d;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 600;
 	letter-spacing: 2px;
 	margin-bottom: 12px;
 }
 
 body.style-4 .navigation-banner-content .title {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 700;
 	font-size: 48px;
 	line-height: 48px;
@@ -6083,7 +6088,7 @@ body.style-5 .button.style-4 {
 	font-size: 24px;
 	line-height: 24px;
 	text-transform: uppercase;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 700;
 	margin-bottom: 10px;
 }
@@ -6097,7 +6102,7 @@ body.style-5 .button.style-4 {
 	font-size: 80px;
 	line-height: 72px;
 	text-transform: uppercase;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 700;
 	margin-bottom: 5px;
 }
@@ -7678,7 +7683,7 @@ body.style-10 .product-slide-entry .subtitle:hover {
 .product-detail-box.desc span,
 .tabs-container .subtitles,
 .tabs-container.style-1 .tab-switcher {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	margin-right: 5px;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -7784,7 +7789,7 @@ p,
 	line-height: 20px;
 	color: #343434;
 	margin-bottom: 10px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 .product-detail-box .cant {
@@ -10032,7 +10037,7 @@ table.table-cartotal th,
 	color: #24b2ea;
 	border: 1px #24b2ea solid;
 	font-weight: 700;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	text-align: center;
 }
 .table-basic th,
@@ -10046,7 +10051,7 @@ table.table-cartotal th,
 	color: #24b2ea;
 	border: 1px #24b2ea solid;
 	font-weight: 700;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	text-align: center;
 }
 
@@ -10199,7 +10204,7 @@ table.table-cartotal input[type=radio] {
 	line-height: 40px;
 	color: #333232;
 	font-weight: 700;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	margin-bottom: 15px;
 }
 
@@ -10408,7 +10413,7 @@ table.table-cartotal input[type=radio] {
 	font-size: 18px;
 	font-weight: 600;
 	margin-bottom: 20px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	color: #666;
 	text-transform: uppercase;
 }
@@ -10643,7 +10648,7 @@ header.type-4 .header-top:before {
 		color: #CBCED5;
 		text-transform: uppercase;
 		font-weight: bold;
-		font-family: "Open Sans", sans-serif;
+		font-family: "Barlow-Regular", sans-serif;
 	}
 	header.type-4 .header-top-entry .title .fa {
 		color: #fff;
@@ -10666,17 +10671,17 @@ body.style-11 .navigation-banner-content .subtitle {
 	font-size: 18px;
 	color: #cdcdcd;
 	text-transform: uppercase;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	letter-spacing: 3px;
 }
 
 body.style-11 .navigation-banner-content .title {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	letter-spacing: 2px;
 }
 
 body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 14px;
 	line-height: 22px;
 	color: #fff;
@@ -10686,7 +10691,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
 }
 
 body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 44px;
 	line-height: 44px;
 	text-transform: uppercase;
@@ -10695,7 +10700,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
 }
 
 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 12px;
 	line-height: 16px;
 	color: #fff;
@@ -10731,7 +10736,7 @@ body:not(.mobile).style-11 a.sale-entry:hover {
 }
 
 body.style-11 .sale-entry .sale-price {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	letter-spacing: 2px;
 }
 
@@ -10783,7 +10788,7 @@ body.style-11 .mozaic-banners-wrapper.type-2 .banner-column {
 	line-height: 24px;
 	color: #fafafa;
 	text-transform: uppercase;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	display: block;
 	margin-bottom: 10px;
 }
@@ -10839,7 +10844,7 @@ body:not(.mobile) .color-text-widget:hover .description {
 	font-size: 24px;
 	line-height: 24px;
 	color: #1c1e20;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 15px;
 	display: block;
@@ -10864,7 +10869,7 @@ body.style-10 .column-article-entry {
 body.style-10 .column-article-entry .title {
 	font-size: 22px;
 	font-weight: 400;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 @media (max-width: 1199px) {
@@ -10933,7 +10938,7 @@ table.pasos td {
 	line-height: 24px;
 	color: #1c1e20;
 	font-weight: 400;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 .tabs-container {
@@ -10963,7 +10968,7 @@ table.pasos td {
 	font-weight: 600;
 	text-transform: uppercase;
 	font-size: 12px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 .price .current,
@@ -10971,7 +10976,7 @@ table.pasos td {
 	color: #fff;
 	font-weight: 600;
 	font-size: 18px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 .descuento {
@@ -11009,7 +11014,7 @@ table.pasos td {
 .internas-banner-content .subtitle {
 	font-size: 28px;
 	margin-bottom: 7px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 body.style-15 .navigation-banner-content .title,
@@ -11020,7 +11025,7 @@ body.style-15 .navigation-banner-content .title,
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: 100;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	letter-spacing: 0;
 	margin-bottom: 12px;
 }
@@ -11029,7 +11034,7 @@ body.style-15 .navigation-banner-content .title,
 .internas-banner-content h1 {
 	letter-spacing: 2px;
 	font-size: 45px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	text-transform: uppercase;
 }
 
@@ -11055,7 +11060,7 @@ body.style-15 .navigation-banner-content .title,
 }
 
 .banner_estatico.puntos .cell-view span {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 700;
 	font-size: 34px;
 }
@@ -11076,7 +11081,7 @@ body.style-15 .navigation-banner-content .title,
 }
 
 .container.puntos .nav-tabs li span {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 600;
 	font-size: 16px;
 	color: #24b2ea;
@@ -11538,7 +11543,7 @@ body.style-15 .navigation-banner-content .black .puntos {
 	font-size: 50px;
 	line-height: 50px;
 	color: #fff;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	letter-spacing: 0;
 }
 
@@ -11568,7 +11573,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .subtitle {
 	color: #fff;
 	font-weight: 300;
 	text-transform: uppercase;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
@@ -11577,7 +11582,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .title {
 	text-transform: uppercase;
 	color: #fff;
 	font-weight: 100;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 }
 
 body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
@@ -11585,7 +11590,7 @@ body.style-15 .mozaic-banners-wrapper.type-2 .mozaic-banner-content .view {
 	color: #fff;
 	text-transform: uppercase;
 	font-style: normal;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 700;
 	border-bottom-width: 2px;
 }
@@ -12103,7 +12108,7 @@ body:not(.mobile) .special-item-entry:hover > img:first-child {
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	text-align: center;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 700;
 	font-size: 14px;
 	color: #fff;
@@ -13415,7 +13420,7 @@ form div {
 .error-pass {
 	text-align: left!important;
 	color: #3f454b;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	line-height: 18px;
 }
 
@@ -13566,7 +13571,7 @@ span.help-block {
 	line-height: 30px;
 	text-shadow: none;
 	letter-spacing: inherit;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	border-bottom: 1px solid #004fb9;
 }
 
@@ -13820,12 +13825,12 @@ table.calc tr th {
 
 table.calc tr td {
 	padding: 18px 12%;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	border-bottom: 1px solid #e5e5e5;
 }
 
 table.calc tr td span {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-weight: 600;
 	font-size: 18px;
 }
@@ -13838,7 +13843,7 @@ p.result {
 	font-style: italic;
 	margin-top: 20px;
 	text-align: center;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Barlow-Regular", sans-serif;
 	font-size: 15px;
 }
 
@@ -14063,8 +14068,20 @@ p.result {
 .instrucc .owl-item{
 	padding: 0px 10px;
 }
+.mrg-0{
+	margin: 0px !important;
+}
+.mrg-top20{
+	margin-top: 20px;
+}
+.mrg-top25{
+	margin-top: 25px;
+}
 .mrg-bott8{
 	margin-bottom: 8px;
+}
+.mrg-bott10{
+	margin-bottom: 10px;
 }
 .mrg-bott15{
 	margin-bottom: 15px;
@@ -14074,6 +14091,12 @@ p.result {
 }
 .pad-left0{
 	padding-left: 0px;
+}
+.pdg-0{
+	padding: 0px;
+}
+.pdg-010{
+	padding: 0px 10px;
 }
 .dis-flex{
 	display: flex;
@@ -14103,8 +14126,8 @@ p.result {
 }
 .border-backrange{
 	margin-top: 30px;
-	margin-bottom: 35px;
-    background-color: #fbfbfb;
+    margin-bottom: 35px;
+    border: 2px solid #00A0CE;
     border-radius: 6px;
     padding: 25px 30px;
 }
@@ -14112,9 +14135,10 @@ p.result {
 	display: block;
     text-align: center;
     width: 120px;
-    margin-left: 20px !important;
-    background-color: #ebebeb;
-    border: 1px solid #e1e1e1;
+    color: #24b2ea;
+    font-size: 24px;
+    margin: auto !important;
+    border: 1px solid transparent;
 }
 
 .mrg-btn23{
@@ -14142,13 +14166,13 @@ p.result {
     border-radius: 8px;
 }
 .fnt-18{
-	font-size: 18px;
+	font-size: 18px !important;
 }
 .fnt-22{
 	font-size: 22px;
 }
 .fnt-25{
-	font-size: 25px;
+	font-size: 25px !important;
 }
 .fnt-32{
 	font-size: 32px;
@@ -14160,11 +14184,14 @@ p.result {
 	font-weight: bold;
 }
 
+.green-col{
+	color: #26A32F;
+}
 .pink-col{
 	color: #E66B84;
 }
 .sky-col{
-	color: #00ACD8;
+	color: #00ACD8 !important;
 }
 .white-col{
 	color: #fff !important;
@@ -14177,6 +14204,12 @@ p.result {
 }
 .orange-col{
 	color: #E0592A !important;
+}
+.grey-col{
+	color: #7C7C7C;
+}
+.back-grey{
+	background-color: #7C7C7C;
 }
 .back-orang{
 	background-color: #E0592A;
@@ -14203,6 +14236,28 @@ p.result {
 	color: #fff;
     padding: 2px 2px;
     margin-bottom: 6px;
+}
+.pos-abs{
+	position: absolute;
+    width: 100%;
+}
+.bord-pink{
+	border: 2px solid #E66B84;
+    position: relative;
+    margin-top: 46px;
+    padding: 38px 0px 12px 0px;
+    border-radius: 0px 0px 30px 30px;
+}
+
+.bord-green{
+	border: 2px solid #26A32F;
+    position: absolute;
+	padding: 2px 0px;
+    bottom: -12px;
+    left: 50px;
+    width: 86%;
+    background-color: #fff;
+    border-radius: 9px;
 }
 .bord-back{
 	padding: 14px 2px;
@@ -14243,6 +14298,12 @@ p.result {
     padding: 16px;
     font-size: 16px;
 }
+.col-text6{
+	margin: 0px;
+    color: #fff;
+	padding: 16px 0px;
+    font-size: 20px;
+}
 .col-text-blue{
 	font-weight: 600;
     font-size: 24px;
@@ -14258,12 +14319,6 @@ p.result {
 .bott-pago2{
 	text-align: center;
     color: #0063AF;
-}
-.mrg-0{
-	margin: 0px !important;
-}
-.mrg-top20{
-	margin-top: 20px;
 }
 .item-product .info-price{
 	background-color: #E0592A;
@@ -14296,4 +14351,30 @@ p.result {
 .text-p{
 	color: #fff;
 	margin: 0px;
+}
+
+.tab-planilla>li.active>a{
+	background-color: #E0592A !important;
+	color: #fff !important;
+	border-radius: 10px;
+}
+.tab-planilla>li>a:hover{
+	background-color: transparent;
+}
+.tab-planilla>li>a{
+	margin-right: 0px !important;
+}
+
+.back-pinkbtn{
+	background-color: #F9DFE6;
+    padding: 10px;
+    border-radius: 8px;
+}
+.back-skybtn{
+	background-color: #B9D5FB;
+    padding: 10px;
+    border-radius: 8px;
+}
+.bord-50{
+	border-radius: 50px;
 }
