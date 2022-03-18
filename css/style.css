@@ -93,6 +93,7 @@ video {
 	border: 0;
 	font: inherit;
 	vertical-align: baseline;
+	font-family: "Barlow-Medium", sans-serif;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -183,6 +184,11 @@ body {
 	height: 0px;
 	font-size: 0px;
 	display: block;
+}
+
+@font-face{
+	font-family: "Barlow-Medium";
+	src: url("../fonts/Barlow-Medium.ttf");
 }
 
 /*mensaje de alerta en modales*/
@@ -14341,7 +14347,7 @@ p.result {
     color: #fff;
 	padding: 26px 0px;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 16px;
 }
 .col-text4{
 	margin: 0px;
@@ -14465,7 +14471,7 @@ p.result {
 	border-bottom: transparent !important;
 }
 .line-heig{
-	line-height: 23px;
+	line-height: 18px;
     text-align: left;
     padding: 15px 20px 15px 30px;
 	list-style: disc;
@@ -14524,4 +14530,11 @@ p.result {
 
 .info-price span{
 	color: #0058A0;
+}
+
+.ui-menu .ui-menu-item{
+	color: #0063AF;
+}
+.mail-box a{
+	color: #0063AF;
 }
