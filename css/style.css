@@ -8223,7 +8223,7 @@ p,
 	padding-left: 0;
 	width: 100%;
 	margin-bottom: 20px;
-	color: #333;
+	color: #0063AF;
 	font-weight: 600;
 	font-size: 14px;
 	text-transform: uppercase;
@@ -8469,7 +8469,7 @@ p,
 label {
 	font-size: 13px;
 	line-height: 14px;
-	color: #272425d9;
+	color: #0063AF;
 	font-weight: 600;
 	display: block;
 	margin-bottom: 7px;
@@ -9753,6 +9753,7 @@ span:first-child{
 
 .traditional-cart-entry .cell-view a {
 	text-align: left;
+	color: #0063AF;
 }
 
 .traditional-cart-entry .tag {
@@ -10418,7 +10419,7 @@ table.table-cartotal input[type=radio] {
 }
 
 .box-checkout .text-center h2 {
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: 600;
 	margin-bottom: 20px;
 	font-family: "Barlow-Regular", sans-serif;
@@ -13379,7 +13380,7 @@ form div {
 }
 
 .login-box p {
-	color: #272425d9;
+	color: #0063AF;
 	font-weight: 500;
 	clear: both;
 	text-align: left;
@@ -14270,6 +14271,45 @@ p.result {
     background-color: #fff;
     border-radius: 9px;
 }
+.bord-backsky{
+   background-color: #00a0ce;
+   position: absolute;
+   padding: 4px 0px;
+   bottom: -15px;
+   left: 50px;
+   width: 86%;
+   border-radius: 9px;
+}
+.bord-toppink{
+	background-color: #E66B84;
+    position: absolute;
+    padding: 4px 0px;
+    top: -15px;
+    left: 50px;
+    width: 86%;
+    border-radius: 9px;
+	text-align: center;
+}
+.bord-topgreen{
+	background-color: #28745E;
+    position: absolute;
+    padding: 4px 0px;
+    top: -15px;
+    left: 50px;
+    width: 86%;
+    border-radius: 9px;
+	text-align: center;
+}
+.bord-lightgreen{
+	background-color: #38A081;
+    position: absolute;
+    padding: 4px 0px;
+    top: -15px;
+    left: 50px;
+    width: 86%;
+    border-radius: 9px;
+	text-align: center;
+}
 .bord-back{
 	padding: 14px 2px;
     color: #fff;
@@ -14398,12 +14438,12 @@ p.result {
 }
 .btn-grey1{
 	border-radius: 6px;
-    border: 1px solid #000000;
+    border: 1px solid #0063AF;
     padding: 10px;
     margin: 0px 10px;
 }
 .btn-grey1 a{
-	color: #000;
+	color: #0063AF;
 }
 .article-container label{
 	color: #0063AF;
@@ -14447,7 +14487,41 @@ p.result {
 .backsubsky .col-md-6{
 	color: #fff;
 }
+.bord-pink-esq{
+	border: 1px solid #E66B84;
+	padding: 23px 0px 10px;
+}
+.bord-green-esq{
+	border: 1px solid #28745E;
+	padding: 23px 0px 10px;
+}
+.bord-ligtgreen-esq{
+	border: 1px solid #38A081;
+	padding: 23px 0px 10px;
+}
+
 .bord-esky{
 	border: 1px solid skyblue;
     padding: 0px;
+	padding-bottom: 22px;
+}
+.heightSky{
+	height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.height-general{
+	height: 170px;
+	display: flex;
+    align-items: center;
+}
+.height-general2{
+	height: 150px;
+    display: grid;
+    align-items: center;
+}
+
+.info-price span{
+	color: #0058A0;
 }
