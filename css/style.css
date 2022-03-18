@@ -11214,7 +11214,7 @@ select[value="0"] {
 	font-weight: normal;
 	padding: 8px 15px;
 	border: none;
-	color: #333;
+	color: #0058A0;
 	text-transform: capitalize;
 }
 
@@ -11224,7 +11224,7 @@ select[value="0"] {
 }
 
 .box-checkout .accordeon-title {
-	border-top: 1px solid #000;
+	border-top: 1px solid #0058A0;
 	padding: 15px 0;
 	font-size: 14px;
 }
