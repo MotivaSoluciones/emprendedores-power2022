@@ -14092,6 +14092,9 @@ p.result {
 .mrg-top25{
 	margin-top: 25px;
 }
+.mrg-top30{
+	margin-top: 30px;
+}
 .mrg-top46{
 	margin-top: 46px;
 }
@@ -14106,6 +14109,12 @@ p.result {
 }
 .mrg-bott20{
 	margin-bottom: 20px;
+}
+.mrg-bott25{
+	margin-bottom: 25px;
+}
+.mrg-bott30{
+	margin-bottom: 30px;
 }
 .pad-left0{
 	padding-left: 0px;
