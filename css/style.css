@@ -14550,3 +14550,11 @@ p.result {
 .mail-box a{
 	color: #0063AF;
 }
+.information-blocks .col-md-3 .e-tittle{
+	height: 40px;
+	text-overflow: ellipsis;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
