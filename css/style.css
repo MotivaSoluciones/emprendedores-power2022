@@ -2435,7 +2435,7 @@ header .icon-entry .text b {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background-color: #fff;
+		background-color: #004fb9;
 		background-repeat-x: repeat;
 		background-size: contain;
 		height: 100%;
@@ -2508,7 +2508,7 @@ header .icon-entry .text b {
 		top: 50%;
 		margin: -1px 0 0 -23px;
 		content: "";
-		background: #004fb9;
+		background: #fff;
 	}
 	.navigation-header .close-menu:before {
 		transform: rotate(45deg);
@@ -14192,6 +14192,9 @@ p.result {
     padding: 14px 10px;
     border-radius: 8px;
 }
+.fnt-16{
+	font-size: 16px;
+}
 .fnt-18{
 	font-size: 18px !important;
 }
@@ -14292,7 +14295,7 @@ p.result {
    padding: 4px 0px;
    bottom: -15px;
    left: 50px;
-   width: 86%;
+   width: 90%;
    border-radius: 9px;
 }
 .bord-toppink{
