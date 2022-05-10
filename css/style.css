@@ -13313,10 +13313,9 @@ form label {
 	background: #004fb9 url(../img/bg/bg-login.png) fixed;
 }
 .fondo2 {
-	background-size: contain;
-    background-repeat: no-repeat;
-    background-position: 20% 100%;
-	background: #fff url(../img/bg/bg-login-chat.png) fixed;
+	background-size: contain, cover !important;
+    background-repeat: no-repeat !important;
+	background: #004fb9 url(../img/bg/bg-login-chat.png) fixed;
 }
 
 .fondo.page-registro {
